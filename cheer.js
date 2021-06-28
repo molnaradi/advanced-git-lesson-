@@ -1,7 +1,7 @@
 'use strict';
 
-const cheer = (teamNumber, otherTeamNumber) => {
-  return `Team Nr. ${teamNumber} and ${otherTeamNumber} are the best team ever!`;
+const cheer = (teamNumber) => {
+  return `Cheer for the ${teamNumber}!`;
 }
-console.log(cheer(3, 4));
-console.log(cheer(5, 6));
+console.log(cheer(3));
+console.log(cheer(5));
