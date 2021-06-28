@@ -1,3 +1,7 @@
 'use strict';
 
-console.log(28);
+function greet(age) {
+  console.log(age);
+}
+
+greet(28);
