@@ -6,3 +6,4 @@ function future(param1, param2) {
 };
 
 future('Capricornka');
+future('Ajaj');
