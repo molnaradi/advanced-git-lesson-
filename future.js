@@ -1,7 +1,7 @@
 'use strict';
 
-function future(param) {
-  console.log(param);
+function future(param1, param2) {
+  console.log(param1, param2);
   console.log('my chinese horoscope sign');
 };
 
