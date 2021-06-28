@@ -1,6 +1,6 @@
 'use strict';
 
 const cheer = (teamNumber) => {
-  return `Team Nr. ${teamNumber} is the best team ever!`;
+  return `Wazzup Niggas?`;
 }
 console.log(cheer(3));
