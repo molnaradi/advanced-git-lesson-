@@ -1,7 +1,8 @@
 'use strict';
 
-function greet(name) {
-  console.log(name);
+function greet(firstName, lastName) {
+  console.log(`${firstName} ${lastName}`);
 }
 
-greet('Greetings');
+greet('Adam', 'Molnar');
+greet('Adamka', 'Molnar');
