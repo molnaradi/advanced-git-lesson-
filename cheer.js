@@ -1,7 +1,6 @@
 'use strict';
 
-const cheer = () => {
-  console.log('Best team ever');
+const cheer = (teamNumber) => {
+  return `Team Nr. ${teamNumber} is the best team ever!`;
 }
-
-console.log("JavaScript");
+console.log(cheer(3));

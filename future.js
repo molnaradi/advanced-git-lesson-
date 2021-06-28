@@ -1,7 +1,7 @@
 'use strict';
 
-function future() {
-  console.log('Capricorn');
+function future(param) {
+  console.log(param);
 };
 
-future();
+future('Capricorn');
