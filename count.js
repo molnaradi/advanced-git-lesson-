@@ -5,8 +5,8 @@ function count(month) {
 
 count(6);
 
-function greet(age) {
-  console.log(age);
+function greet(age,name) {
+  console.log(age,name);
 }
 
-greet(28);
+greet(28, 'Bence');
