@@ -1,3 +1,6 @@
 'use strict';
+function count(month) {
+  console.log(month);
+}
 
-console.log(28);
+count(6);
