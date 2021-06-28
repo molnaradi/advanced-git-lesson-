@@ -5,4 +5,4 @@ function future(param1, param2) {
   console.log('my chinese horoscope sign');
 };
 
-future('Capricornka');
+future('Capricorn', '12.21-01.19');
